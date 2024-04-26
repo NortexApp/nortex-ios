@@ -1,7 +1,7 @@
-SDN iOS SDK
+NORTEX iOS SDK
 ==============
 
-This open-source library allows you to build iOS apps compatible with SDN
+This open-source library allows you to build iOS apps compatible with Nortex
  an open standard for interoperable Instant Messaging
 
 This SDK implements an interface to communicate with the SDN Client/Server
@@ -10,12 +10,6 @@ This SDK implements an interface to communicate with the SDN Client/Server
 
 Use the SDK in your app
 =======================
-
-
-If you want to use the develop version of the SDK, use instead:
-
-    pod 'SDNSDK', :git => https://github.com/Sending-Network/sendingnetwork-ios.git',
-    :branch => 'main'
 
 
 Overview
